@@ -33,3 +33,11 @@ rm - Removes files.
 help - Similar to man, this displays help for commands.
 
 # 1.4 Forking and Cloning
+
+Creating a new repo in GitHub is as simple as going to your profile page, clicking over to the 'Repositories' tab, then clicking the big green 'New' button at the top right corner. Once there, you have a few options to choose from in setting up the new repo, including naming it, and deciding to make it private or public.
+
+Forking a repo is just as easy, especially once you understand that forking is essentially just making a new copy for you to work on. All that needs to be done is to find a repo that you'd like to fork, and click the 'Fork' button in the top right corner of the repo page. 
+
+Cloning a repo to your local computer is only slightly more complicated. The first step is to find the url for the repo you'd like cloned to your computer, located on the right-hand side of the repo page, labeled 'HTTPS Clone URL.' The next step is to copy the url in the text box. Once copied, open up git bash, and cd to your preferred directory. Then type the command 'git clone [myurl]' using the copied url for [myurl], and that's it!
+
+I honestly didn't really have many struggles setting up git or GitHub, although I am attempting to learn some more advanced time-saving commands for git bash which can be tricky. Everything on GitHub has been fairly self-explanatory so far.
