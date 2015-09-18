@@ -1,4 +1,4 @@
-![site-map](sitemap.png)
+![site-map](imgs/sitemap.png)
 ### What are the 6 Phases of Web Design?
 
 The 6 phases of web design are:
