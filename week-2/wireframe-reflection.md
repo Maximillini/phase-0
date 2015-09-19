@@ -1,4 +1,4 @@
-![wireframe index page](week-2/wireframe-index.png)
+![wireframe index page](wireframe-index.png)
 
 ### What is a wireframe?
 
