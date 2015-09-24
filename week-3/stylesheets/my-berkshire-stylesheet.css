@@ -1,0 +1,56 @@
+body {
+    color: #000080;
+    background-color: #ffffff;
+}
+
+a {
+    color: #800080;
+}
+
+a:visited {
+    color: #ff0000;
+}
+
+tr div {
+    font-size: .7em;
+    padding-left: 15px;
+}
+
+td {
+    width: 50%;
+    padding: 10px;
+}
+
+.huge {
+    font-size: 2em;
+}
+
+.center {
+	text-align: center;
+	display: block;
+}
+table {
+	margin-left: 100px;
+}
+.small {
+	font-size:.75em;
+}
+.center-small {
+	font-size: .75em;
+	text-align: center;
+	display: block;
+}
+.advertise {
+    text-align: center;
+    font-size: .75em
+}
+
+.break {
+    display: block;
+}
+.foot {
+    font-size: .75em;
+}
+.line {
+    border: 1px inset;
+}
