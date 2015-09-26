@@ -1,3 +1,14 @@
+![Color-change](imgs/1-Color-change.jpg)
+![Columns](imgs/2-Columns.jpg)
+![Rows](imgs/3-rows.jpg)
+![Equidistant](imgs/4-Equidistant.jpg)
+![Squares](imgs/5-Squares.jpg)
+![Footer](imgs/6-Footer.png)
+![Header](imgs/7-Header.png)
+![Sidebar](imgs/8-Sidebar.png)
+![Creative](imgs/9-Creative.png)
+
+
 ### How can you use Chrome's DevTools inspector to help you format or position elements?
 
 Using Chrome's DevTools, you can format or position elements by directly altering the css to add or change position, margin, padding, etc.
