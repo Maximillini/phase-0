@@ -1,12 +1,12 @@
 ![Color-change](https://github.com/Maximillini/phase-0/blob/master/week-3/chrome-devtools/imgs/1-Color-change.JPG?raw=true)
-![Columns](imgs/2-Columns.jpg)
-![Rows](imgs/3-rows.jpg)
-![Equidistant](imgs/4-Equidistant.jpg)
-![Squares](imgs/5-Squares.jpg)
-![Footer](imgs/6-Footer.png)
-![Header](imgs/7-Header.png)
-![Sidebar](imgs/8-Sidebar.png)
-![Creative](imgs/9-Creative.png)
+![Columns](https://github.com/Maximillini/phase-0/blob/master/week-3/chrome-devtools/imgs/2-Columns.JPG?raw=true)
+![Rows](https://github.com/Maximillini/phase-0/blob/master/week-3/chrome-devtools/imgs/3-Rows.JPG?raw=true)
+![Equidistant](https://github.com/Maximillini/phase-0/blob/master/week-3/chrome-devtools/imgs/4-Equidistant.JPG?raw=true)
+![Squares](https://github.com/Maximillini/phase-0/blob/master/week-3/chrome-devtools/imgs/5-Squares.JPG?raw=true)
+![Footer](https://github.com/Maximillini/phase-0/blob/master/week-3/chrome-devtools/imgs/6-Footer.PNG?raw=true)![Header](imgs/7-Header.png)
+![Header](https://github.com/Maximillini/phase-0/blob/master/week-3/chrome-devtools/imgs/7-Header.PNG?raw=true)
+![Sidebar](https://github.com/Maximillini/phase-0/blob/master/week-3/chrome-devtools/imgs/8-Sidebar.PNG?raw=true)
+![Creative](https://github.com/Maximillini/phase-0/blob/master/week-3/chrome-devtools/imgs/9-Creative.PNG?raw=true)
 
 
 ### How can you use Chrome's DevTools inspector to help you format or position elements?
