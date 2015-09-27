@@ -1,4 +1,4 @@
-![Color-change](imgs/1-Color-change.jpg)
+![Color-change](https://github.com/Maximillini/phase-0/blob/master/week-3/chrome-devtools/imgs/1-Color-change.JPG?raw=true)
 ![Columns](imgs/2-Columns.jpg)
 ![Rows](imgs/3-rows.jpg)
 ![Equidistant](imgs/4-Equidistant.jpg)
