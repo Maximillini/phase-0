@@ -1,0 +1,41 @@
+body {
+    background-color: #21212B;
+}
+
+.column-1 {
+    background-color: #79A294;
+    display: inline-block;
+    border: dashed #FFFFFF 1px;
+    width: 48%;
+    border-radius: 5px;
+}
+
+.column-2 {
+    background-color: #4B705F;
+    border: dashed #FFFFFF 1px;
+    display: inline-block;
+    width: 48%;
+    vertical-align: top;
+    padding-bottom: 46px;
+    border-radius: 5px;
+}
+
+header {
+    background-color: #79A294;
+    color: #D1C59B;
+    border-radius: 5px;
+    padding: 2em;
+    text-shadow: 1px 1px black;
+}
+
+footer {
+    background-color: #71835B;
+    color: #D1C59B;
+    border-radius: 5px;
+    padding: 2em;
+}
+
+.octocat {
+    width: 84px;
+    height: 84px;
+}
