@@ -1,3 +1,28 @@
+/*
+
+###What is important to know when linking an external file (like a stylesheet) to an HTML file?
+
+The most important thing to know about linking an external file is *know your file path!* That
+can't be stressed enough, and when a problem arises, 9 out 10 times, an incorrect file path is going to be it.
+
+###What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+
+It was very difficult to get the site how we wanted it. We ended up using the display, width, text-align, and padding 
+properties mostly in order to get the elements positioned.
+
+###What CSS did you use to modify the element style (like size, color, etc.)
+
+We mostly used color, font-size, and border properties to modify the style.
+
+###Did you modify the HTML to include classes or ids? If so, which did you chose and why? If you didn't, how would you know which one to add to your HTML?
+
+We used classes exclusively, because ids can only be used once in an HTML document. Classes are generally more effective due to their versatility.
+
+###When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+
+The actual code base seemed to have cleaner code because of their use of both html and CSS as opposed to our use of simply CSS.
+*/
+
 body {
     color: #000080;
     background-color: #ffffff;
