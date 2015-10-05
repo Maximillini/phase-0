@@ -13,11 +13,10 @@ my_info = { :first_name => "Max",
           }
 
 
-my_info.each do |x, y|
-  print "#{y} "
-end
-
-
+p my_info.fetch(:first_name)
+p my_info.fetch(:last_name)
+p my_info.fetch(:hometown)
+p my_info.fetch(:age)
 # RSpec Tests. They are included in this file because the local variables you are creating are not accessible across files. If we try to run these files as a separate file per normal operation, the local variable checks will return nil.
 
 
