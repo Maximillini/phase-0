@@ -88,6 +88,8 @@ with fewer lines of code.
 # => # => AND overwritten using the same method call: '.age'.
 =end
 
+#***RELEASE 4: https://github.com/Maximillini/phase-0/blob/master/week-6/attr/release_4.rb *****
+
 =begin
 #RELEASE 6:
 # What is a reader method?
