@@ -1,7 +1,7 @@
 // Separate Numbers with Commas in JavaScript
 
 
-// I worked on this challenge with: .
+// I worked on this challenge with: Nicole Yee.
 
 // Pseudocode
 
