@@ -3,11 +3,8 @@
 function sum(integer_array) {
   var total = 0;
   for (var i = 0; i < integer_array.length; total += integer_array[i++]);
-  console.log(total);
+    return total;
 }
-
-var array = [4,5,6,7,8,9];
-console.log(sum(array));
 
 /*
 SUM
@@ -24,9 +21,6 @@ function mean(integer_array) {
   var total = sum(integer_array);
   return total/length;
  }
-
-var array = [4,5,6,7,8,9];
-console.log(mean(array));
 
 /*
 MEAN
@@ -49,9 +43,6 @@ function median(integer_array) {
     return integer_array[middle_index];
   }
 }
-
-var array = [4,5,6,7,8];
-console.log(median(array));
 
 //Refactor
 
