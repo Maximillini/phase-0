@@ -1,5 +1,5 @@
 
-![one-to-one-schema](imgs/one-to-one.png)
+![one-to-one-schema](imgs/one-to-one.PNG)
 
 ### Explain why this relationship is a one-to-one to the best of your ability. 
 
@@ -8,7 +8,7 @@ a child will only ever have one biological mother and one biological father. Of 
 be NULL, so it may not be the ideal example, but since a child will never have more than one female and male parent, it can be considered a one-to-one relationship.
 
 
-![grocery-list](imgs/grocery-list.png)
+![grocery-list](imgs/grocery-list.PNG)
 
 
 ### What is a one-to-one database?
