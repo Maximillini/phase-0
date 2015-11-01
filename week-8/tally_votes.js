@@ -35,7 +35,7 @@ var votes = {
 
 // Tally the votes in voteCount.
 var voteCount = {
-  president: { Bob: 3, Cindy: x },
+  president: {},
   vicePresident: {},
   secretary: {},
   treasurer: {}
